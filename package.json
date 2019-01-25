@@ -1,0 +1,16 @@
+{
+  "name": "cdc-nodejs",
+  "version": "0.0.1",
+  "description": "NodeJS Developer's Guide Tutorial Code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial-code",
+    "cdc"
+  ],
+  "author": "Arif Ismiadi",
+  "license": "ISC"
+}
